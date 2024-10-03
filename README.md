@@ -1,4 +1,3 @@
-# Machine-Learning-Projects
-I've added my ml projects that I've worked on during my undergraduate studies. Feel free to check them out!
-# 1. First project - TB detection using CNN. 
-I used Chest X-Rays (radiography) visualised, preprocessed and trained my model on them. 
+# Tuberculosis Detection Using CNN
+ 
+I used Chest X-Rays (radiography) visualised, preprocessed and trained my model on them. An accuracy aroun 98% is obtained
